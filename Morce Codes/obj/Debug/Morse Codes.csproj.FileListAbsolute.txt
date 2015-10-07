@@ -1,0 +1,23 @@
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\bin\Debug\Morce Codes.exe.config
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\bin\Debug\Morce Codes.exe
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\bin\Debug\Morce Codes.pdb
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morse Codes.csprojResolveAssemblyReference.cache
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morse_Codes.Form1.resources
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morse_Codes.Properties.Resources.resources
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morse Codes.csproj.GenerateResource.Cache
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morce Codes.exe
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morce Codes.pdb
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\bin\Debug\Morce Codes.exe.config
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\obj\Debug\Morce Codes.exe
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\obj\Debug\Morce Codes.pdb
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\bin\Debug\Morce Codes.exe
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\bin\Debug\Morce Codes.pdb
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\obj\Debug\Morse Codes.csprojResolveAssemblyReference.cache
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\obj\Debug\Morse_Codes.Form1.resources
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\obj\Debug\Morse_Codes.Properties.Resources.resources
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\obj\Debug\Morse Codes.csproj.GenerateResource.Cache
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\bin\Debug\Interop.WMPLib.dll
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\bin\Debug\AxInterop.WMPLib.dll
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\obj\Debug\Interop.WMPLib.dll
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\obj\Debug\AxInterop.WMPLib.dll
+s:\Documents\Visual Studio 2013\Projects\Morse Codes\Morce Codes\obj\Debug\Morse Codes.csproj.ResolveComReference.cache

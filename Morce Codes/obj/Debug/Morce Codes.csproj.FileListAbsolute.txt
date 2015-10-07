@@ -1,0 +1,9 @@
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\bin\Debug\Morce Codes.exe.config
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\bin\Debug\Morce Codes.exe
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\bin\Debug\Morce Codes.pdb
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morce Codes.csprojResolveAssemblyReference.cache
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morce Codes.csproj.GenerateResource.Cache
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morce Codes.exe
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morce Codes.pdb
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morse_Codes.Form1.resources
+s:\Documents\Visual Studio 2013\Projects\Morce Codes\Morce Codes\obj\Debug\Morse_Codes.Properties.Resources.resources
